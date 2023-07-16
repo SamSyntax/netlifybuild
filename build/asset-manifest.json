@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.147267fe.css",
+    "main.js": "/static/js/main.e96bea54.js",
+    "static/media/heroimg.png": "/static/media/heroimg.ba6fe42d4244ecdf81ee.png",
+    "static/media/bgmain.png": "/static/media/bgmain.67650fce6126aa6b6012.png",
+    "static/media/MagicMotosports.png": "/static/media/MagicMotosports.125e196d4b63c406ea6a.png",
+    "static/media/VCPsystem.png": "/static/media/VCPsystem.7f3ef6536640e7428c51.png",
+    "static/media/volkswagen.png": "/static/media/volkswagen.33cf66720102472048d6.png",
+    "static/media/bmw.png": "/static/media/bmw.43aedc322f2ced20a1e2.png",
+    "static/media/logo.png": "/static/media/logo.4bb603e53f0681f47370.png",
+    "static/media/mercedes.png": "/static/media/mercedes.2d5c49d7f4c7b74d7a86.png",
+    "static/media/Adako.png": "/static/media/Adako.90fcfdf08800bdf5e96c.png",
+    "static/media/audi.png": "/static/media/audi.0642d78574ae9f1509ad.png",
+    "static/media/IOterminal.png": "/static/media/IOterminal.2bbda123b92dda9a5986.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.147267fe.css.map": "/static/css/main.147267fe.css.map",
+    "main.e96bea54.js.map": "/static/js/main.e96bea54.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.147267fe.css",
+    "static/js/main.e96bea54.js"
+  ]
+}
